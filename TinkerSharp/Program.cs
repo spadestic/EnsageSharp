@@ -17,7 +17,7 @@ namespace TinkerSharp
         private static Item Blink, Dagon, Hex, Soulring, Ethereal, Veil, Orchid, Shiva;
         private static Hero me;
         private static Hero target;
-        private static Key toggleKey = Key.J;
+        private static Key toggleKey = Key.D;
         private static Key activeKey = Key.Space;
         private static bool toggle = true;
         private static bool active;
